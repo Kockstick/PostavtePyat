@@ -17,6 +17,11 @@ namespace PostavtePyat
 
         }
 
+        public virtual void polimorphizm()
+        {
+
+        }
+
         public User(string name, string login, string password)
         {
             this.name = name;

@@ -18,6 +18,11 @@ namespace PostavtePyat
 
         }
 
+        public override void polimorphizm()
+        {
+            base.polimorphizm();
+        }
+
         public void BanUser(User user)
         {
             //Ban user
