@@ -12,6 +12,11 @@ namespace PostavtePyat
         public string login { get; set; }
         public string password { get; set; }
 
+        public User()
+        {
+
+        }
+
         public User(string name, string login, string password)
         {
             this.name = name;

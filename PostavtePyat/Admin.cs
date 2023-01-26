@@ -10,6 +10,7 @@ namespace PostavtePyat
     {
         public Admin()
         {
+            
         }
 
         public Admin(string name, string login, string password) : base(name, login, password)
